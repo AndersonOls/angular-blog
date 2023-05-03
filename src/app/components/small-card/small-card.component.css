@@ -1,0 +1,25 @@
+.container_samall-card{
+    width: 70rem;
+    margin-bottom: 1.5rem;
+}
+
+.small-card-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.small-card_photo img{
+    width: 25rem;
+    min-width: 20rem;
+    margin-right: 2rem;
+}
+
+.small-card_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.separator{
+    margin-top: 1rem;
+}

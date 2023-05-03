@@ -1,0 +1,13 @@
+.container_menu-bar ul{
+    display: flex;
+    font-size: 2rem;
+}
+
+.container_menu-bar a:hover{
+    color: gray;
+}
+
+.container_menu-bar ul li{
+    margin-right: 2rem;
+    list-style: none;
+}

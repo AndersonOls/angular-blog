@@ -1,9 +1,9 @@
 
 .container_big-card{
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
     width: 40rem;
-    height: 60rem;
+    height: 50rem;
 
     display: flex;
     flex-direction: column;
@@ -21,7 +21,10 @@
     margin-top: 1.5rem;
 }
 
+.big-card_description{
+    margin-top: 2rem;
+}
+
 .big-card_description p{
     color: gray;
-    margin-top: 1rem;
 }
